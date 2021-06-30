@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 472a49cc1a15d0d47a8fe09cb631e08b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpeckPrefab: {fileID: 2084623190463094090, guid: 7b4849ad81396334aa803359ae5879a9, type: 3}
+  - ScalePrefab: {fileID: 5778143320384885146, guid: 3921f4c5cba2fcd40bcead4bcea0d9f6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
